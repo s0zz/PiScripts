@@ -1,7 +1,7 @@
 # PiScripts
 Collection of Raspberry Pi scripts. Built &amp; tested on Raspberry Pi 5 8GB.
 
-## pitemp.sh
+## pitemp.sh - Ubuntu Server 24.04 LTS | Noble Numbat
 
 ### Overview:
 The pitemp.sh script measures and displays the CPU and GPU temperatures of a Raspberry Pi along with other system information such as the IPv4 address, hostname, and current date and time.
